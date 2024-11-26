@@ -38,7 +38,7 @@ O App Voluntariado é uma aplicação mobile desenvolvida em Flutter para conect
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/FernandoFigdev/voluntariado-app
+   git clone https://github.com/FernandoFigdev/voluntariado-app.git
 
 2. **Acesse o Diretório do Projeto**
     ```bash
