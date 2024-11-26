@@ -3,7 +3,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-v3.0-blue)
 
 **Descrição**:  
-O App Voluntariado é uma aplicação mobile desenvolvida em Flutter para conectar voluntários a oportunidades de trabalho comunitário. Com uma interface simples e intuitiva, o aplicativo facilita o acesso a eventos, inscrições e informações detalhadas sobre as iniciativas de voluntariado.
+Este repositório contém o código-fonte do App Voluntariado, um projeto desenvolvido como parte de uma atividade acadêmica na disciplina de desenvolvimento mobile. O objetivo do aplicativo é conectar voluntários a oportunidades de trabalho comunitário de forma simples e prática.
+
+O projeto foi criado utilizando o framework Flutter e segue princípios de boas práticas de desenvolvimento, incluindo uso de navegação entre telas, design intuitivo e armazenamento local para simular funcionalidades reais.
 
 ---
 
@@ -52,12 +54,16 @@ O App Voluntariado é uma aplicação mobile desenvolvida em Flutter para conect
     ```bash
     flutter run
 
+---
+
 ## **Organização do Projeto**
 
 - **lib/**
     - `models/`: Classes para gerenciamento de dados (oportunidades, inscrições).
     - `screens/`: Telas do aplicativo.
     - `utils/`: Configurações auxiliares, como temas e estilos.
+
+---
 
 ## **Melhorias Futuras**
 
